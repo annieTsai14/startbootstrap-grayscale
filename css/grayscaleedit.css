@@ -125,14 +125,6 @@ html, body {
   -webkit-background-clip: text;
 }
 
-h1 {
-	text-shadow:
-		-1px -1px 0 #000,
-		1px -1px 0 #000,
-		-1px 1px 0 #000,
-		1px 1px 0 #000;
-}
-
 .masthead h2 {
   max-width: 20rem;
   font-size: 1rem;
