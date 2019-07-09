@@ -16,6 +16,7 @@ html, body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+	text-color: #ffffff
 }
 
 #bottom {
@@ -306,10 +307,6 @@ ul {
 }
 
 li {
-	color: #ffffff;
-}
-
-p {
 	color: #ffffff;
 }
 
