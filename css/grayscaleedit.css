@@ -301,6 +301,14 @@ body {
   letter-spacing: 0.0625em;
 }
 
+ul {
+	color: #ffffff;
+}
+
+li {
+	color: #ffffff;
+}
+
 a {
   color: #64a19d;
 }
